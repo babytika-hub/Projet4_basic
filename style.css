@@ -1051,10 +1051,22 @@ h4 {
         padding-left: 0;
         padding-right: 0;
     }
+    .icon-md{
+        padding: 0.50rem;
+    }
+    .row li{
+        padding: 0.25rem;
+    }
 }
 
 @media (max-width: 767px) {
     .bloc-mob-center-text {
         text-align: center;
+    }
+    .icon-md{
+        padding: 0.50rem;
+    }
+    .row li{
+        padding: 0.25rem;
     }
 }
